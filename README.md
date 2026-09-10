@@ -39,23 +39,23 @@ The project was motivated by challenges within the U.S. healthcare system, parti
 
 The following files document the development of the project from initial requirements and database design through implementation, analysis, and presentation.
 
-1. **User Data Requirements**  
+1. **[User Data Requirements](User%20Data%20Requirements.docx)**  
    Defines the user requirements, data requirements, and relationships that guided the database design.
 
-2. **ER Diagram**  
+2. **[ER Diagram](Capstone%20Project%20ER%20Diagram.pdf)**  
    Visualizes the entities, attributes, and relationships within the prescription management system.
 
-3. **Relational Schema**  
+3. **[Relational Schema](Capstone%20Relational%20Schema.pdf)**  
    Shows the relational structure of the database, including tables, primary keys, and foreign key relationships.
 
-4. **SQL Database Implementation**  
+4. **[SQL Database Implementation](CapstoneSQL1.sql)**  
    Contains the SQL used to create and populate the PostgreSQL database.
 
-5. **Queries and Examples**  
+5. **[Queries and Examples](Copy%20of%20Queries%20and%20Examples.docx)**  
    Demonstrates SQL queries developed to retrieve and analyze prescription, pharmacy, insurance, medication, and user information.
 
-6. **Database and User Interface Connection**  
+6. **[Database and User Interface Connection](Connecting%20Database%20and%20UI%20using%20SQLAlchemy.docx)**  
    Documents the work completed using Flask and SQLAlchemy to connect the database with a user interface.
 
-7. **Capstone Presentation**  
+7. **[Capstone Presentation](Tracking%20Prescriptions%20DatabasePowerPoint.pptx)**  
    Provides an overview of the project's purpose, goals, development process, challenges, and results.
