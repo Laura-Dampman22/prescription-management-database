@@ -59,3 +59,11 @@ The following files document the development of the project from initial require
 
 7. **[Capstone Presentation](Tracking%20Prescriptions%20DatabasePowerPoint.pptx)**  
    Provides an overview of the project's purpose, goals, development process, challenges, and results.
+
+## What I Learned
+
+Through this project, I learned the process of creating a database from start to finish, beginning with identifying user and data requirements and progressing through database design, implementation, and testing.
+
+I gained hands-on experience creating ER diagrams and relational schemas, designing tables and relationships, establishing primary and foreign keys, implementing the database in PostgreSQL, and developing SQL queries to retrieve and analyze data.
+
+I also gained experience using Flask and SQLAlchemy to explore connecting the database to a user interface. Most importantly, this project helped me understand how the different stages of database development work together to turn an initial idea into a functional database solution.
